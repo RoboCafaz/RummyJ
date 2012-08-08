@@ -1,4 +1,0 @@
-RummyJ
-======
-
-Joey Lawrance final
